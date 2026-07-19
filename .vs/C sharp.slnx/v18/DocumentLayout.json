@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\Documentos\\C sharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Documentos\\C sharp\\Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\Clase1 Algoritmos 50.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\Clase1 Algoritmos 50.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Documentos\\C sharp\\Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\Clase1 Algoritmos 50.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\Clase1 Algoritmos 50.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Documentos\\C sharp\\Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Documentos\\C sharp\\Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Clase1 Algoritmos 50.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Clase1 Algoritmos 50.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Documentos\\C sharp\\Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\Clase1 Algoritmos 50.AssemblyInfoInputs.cache||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\Clase1 Algoritmos 50.AssemblyInfoInputs.cache||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Documentos\\C sharp\\Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\Clase1 Algoritmos 50.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\Clase1 Algoritmos 50.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clase1 Algoritmos 50.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Documentos\\C sharp\\Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\Clase1 Algoritmos 50.csproj",
+              "RelativeDocumentMoniker": "Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\Clase1 Algoritmos 50.csproj",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Documentos\\C sharp\\Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\Clase1 Algoritmos 50.csproj",
+              "RelativeToolTip": "Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\Clase1 Algoritmos 50.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-19T02:16:50.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clase1 Algoritmos 50.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Documentos\\C sharp\\Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\Clase1 Algoritmos 50.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\Clase1 Algoritmos 50.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Documentos\\C sharp\\Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\Clase1 Algoritmos 50.AssemblyInfo.cs",
+              "RelativeToolTip": "Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\Clase1 Algoritmos 50.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T02:16:40.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Documentos\\C sharp\\Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Documentos\\C sharp\\Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T02:16:39.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clase1 Algoritmos 50.AssemblyInfoInputs.cache",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Documentos\\C sharp\\Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\Clase1 Algoritmos 50.AssemblyInfoInputs.cache",
+              "RelativeDocumentMoniker": "Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\Clase1 Algoritmos 50.AssemblyInfoInputs.cache",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Documentos\\C sharp\\Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\Clase1 Algoritmos 50.AssemblyInfoInputs.cache",
+              "RelativeToolTip": "Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\Clase1 Algoritmos 50.AssemblyInfoInputs.cache",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2026-07-19T02:16:16.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clase1 Algoritmos 50.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Documentos\\C sharp\\Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\Clase1 Algoritmos 50.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\Clase1 Algoritmos 50.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Documentos\\C sharp\\Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\Clase1 Algoritmos 50.GlobalUsings.g.cs",
+              "RelativeToolTip": "Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Release\\net10.0\\Clase1 Algoritmos 50.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T02:16:08.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Clase1 Algoritmos 50.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Documentos\\C sharp\\Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Clase1 Algoritmos 50.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Clase1 Algoritmos 50.csproj.nuget.dgspec.json",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Documentos\\C sharp\\Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Clase1 Algoritmos 50.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "Clase 1 algoritmia 50 ejercicios\\Clase1 Algoritmos 50\\obj\\Clase1 Algoritmos 50.csproj.nuget.dgspec.json",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-19T02:15:55.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

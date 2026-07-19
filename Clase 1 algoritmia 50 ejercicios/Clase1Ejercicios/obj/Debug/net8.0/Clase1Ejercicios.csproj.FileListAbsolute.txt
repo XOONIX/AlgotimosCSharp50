@@ -1,0 +1,28 @@
+C:\Users\Aprendiz\source\repos\Clase1Ejercicios\Clase1Ejercicios\obj\Debug\net8.0\Clase1Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\source\repos\Clase1Ejercicios\Clase1Ejercicios\obj\Debug\net8.0\Clase1Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\source\repos\Clase1Ejercicios\Clase1Ejercicios\obj\Debug\net8.0\Clase1Ejercicios.AssemblyInfo.cs
+C:\Users\Aprendiz\source\repos\Clase1Ejercicios\Clase1Ejercicios\obj\Debug\net8.0\Clase1Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\source\repos\Clase1Ejercicios\Clase1Ejercicios\bin\Debug\net8.0\Clase1Ejercicios.exe
+C:\Users\Aprendiz\source\repos\Clase1Ejercicios\Clase1Ejercicios\bin\Debug\net8.0\Clase1Ejercicios.deps.json
+C:\Users\Aprendiz\source\repos\Clase1Ejercicios\Clase1Ejercicios\bin\Debug\net8.0\Clase1Ejercicios.runtimeconfig.json
+C:\Users\Aprendiz\source\repos\Clase1Ejercicios\Clase1Ejercicios\bin\Debug\net8.0\Clase1Ejercicios.dll
+C:\Users\Aprendiz\source\repos\Clase1Ejercicios\Clase1Ejercicios\bin\Debug\net8.0\Clase1Ejercicios.pdb
+C:\Users\Aprendiz\source\repos\Clase1Ejercicios\Clase1Ejercicios\obj\Debug\net8.0\Clase1Ejercicios.dll
+C:\Users\Aprendiz\source\repos\Clase1Ejercicios\Clase1Ejercicios\obj\Debug\net8.0\refint\Clase1Ejercicios.dll
+C:\Users\Aprendiz\source\repos\Clase1Ejercicios\Clase1Ejercicios\obj\Debug\net8.0\Clase1Ejercicios.pdb
+C:\Users\Aprendiz\source\repos\Clase1Ejercicios\Clase1Ejercicios\obj\Debug\net8.0\Clase1Ejercicios.genruntimeconfig.cache
+C:\Users\Aprendiz\source\repos\Clase1Ejercicios\Clase1Ejercicios\obj\Debug\net8.0\ref\Clase1Ejercicios.dll
+C:\Users\PC\Documents\Documentos\C sharp\Clase 1 algoritmia 50 ejercicios\Clase1Ejercicios\obj\Debug\net8.0\Clase1Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Documentos\C sharp\Clase 1 algoritmia 50 ejercicios\Clase1Ejercicios\obj\Debug\net8.0\Clase1Ejercicios.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Documentos\C sharp\Clase 1 algoritmia 50 ejercicios\Clase1Ejercicios\obj\Debug\net8.0\Clase1Ejercicios.AssemblyInfo.cs
+C:\Users\PC\Documents\Documentos\C sharp\Clase 1 algoritmia 50 ejercicios\Clase1Ejercicios\obj\Debug\net8.0\Clase1Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Documentos\C sharp\Clase 1 algoritmia 50 ejercicios\Clase1Ejercicios\obj\Debug\net8.0\Clase1Ejercicios.dll
+C:\Users\PC\Documents\Documentos\C sharp\Clase 1 algoritmia 50 ejercicios\Clase1Ejercicios\obj\Debug\net8.0\refint\Clase1Ejercicios.dll
+C:\Users\PC\Documents\Documentos\C sharp\Clase 1 algoritmia 50 ejercicios\Clase1Ejercicios\obj\Debug\net8.0\Clase1Ejercicios.pdb
+C:\Users\PC\Documents\Documentos\C sharp\Clase 1 algoritmia 50 ejercicios\Clase1Ejercicios\bin\Debug\net8.0\Clase1Ejercicios.exe
+C:\Users\PC\Documents\Documentos\C sharp\Clase 1 algoritmia 50 ejercicios\Clase1Ejercicios\bin\Debug\net8.0\Clase1Ejercicios.deps.json
+C:\Users\PC\Documents\Documentos\C sharp\Clase 1 algoritmia 50 ejercicios\Clase1Ejercicios\bin\Debug\net8.0\Clase1Ejercicios.runtimeconfig.json
+C:\Users\PC\Documents\Documentos\C sharp\Clase 1 algoritmia 50 ejercicios\Clase1Ejercicios\bin\Debug\net8.0\Clase1Ejercicios.dll
+C:\Users\PC\Documents\Documentos\C sharp\Clase 1 algoritmia 50 ejercicios\Clase1Ejercicios\bin\Debug\net8.0\Clase1Ejercicios.pdb
+C:\Users\PC\Documents\Documentos\C sharp\Clase 1 algoritmia 50 ejercicios\Clase1Ejercicios\obj\Debug\net8.0\Clase1Ejercicios.genruntimeconfig.cache
+C:\Users\PC\Documents\Documentos\C sharp\Clase 1 algoritmia 50 ejercicios\Clase1Ejercicios\obj\Debug\net8.0\ref\Clase1Ejercicios.dll
